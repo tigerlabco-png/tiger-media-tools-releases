@@ -74,7 +74,7 @@ Para tirar os arquivos da câmera sem leitor de cartão.
 ## Download
 
 <p align="center">
-  <a href="https://github.com/tigerlabco-png/tiger-media-tools-releases/releases/download/hub/Tiger-Media-Tools.dmg"><b>⬇︎ Baixar Tiger Media Tools para Mac</b></a><br>
+  <a href="https://github.com/tigerlabco-png/tiger-media-tools/releases/download/hub/Tiger-Media-Tools.dmg"><b>⬇︎ Baixar Tiger Media Tools para Mac</b></a><br>
   <sub>Sempre a versão mais nova</sub>
 </p>
 
