@@ -1,11 +1,38 @@
-# Tiger Media Tools — instaladores
+<p align="center">
+  <img src="assets/tiger-media-tools.png" width="128" alt="Tiger Media Tools">
+</p>
 
-Este repositório guarda **apenas** os instaladores (`.dmg`) e o manifesto de atualizações do Tiger Media Tools
-(Speed Batch, Smart Frame e Camera Ingest). Não há código-fonte aqui.
+<h1 align="center">Tiger Media Tools</h1>
 
-- `tiger-media-tools.json`: manifesto de atualizações (esquema 2), **assinado** com a chave da Tiger. O app
-  Tiger Media Tools recusa qualquer manifesto editado ou assinado por outra chave.
-- Releases: um por versão de cada produto (por exemplo `speedbatch-v2.1.0`), com o `.dmg` anexado. O app confere
-  o `sha256` de cada arquivo antes de instalar.
+<p align="center">
+  Um aplicativo só para instalar, atualizar e abrir as ferramentas da Tiger:<br>
+  <b>Speed Batch</b>, <b>Smart Frame</b> e <b>Camera Ingest</b>.
+</p>
 
-Os aplicativos só funcionam com uma licença válida da conta Tiger Media Tools.
+---
+
+## Download
+
+<p align="center">
+  <a href="https://github.com/tigerlabco-png/tiger-media-tools-releases/releases/download/hub/Tiger-Media-Tools.dmg"><b>⬇︎ Baixar Tiger Media Tools para Mac</b></a><br>
+  <sub>macOS 13 ou mais recente · sempre a versão mais nova</sub>
+</p>
+
+## Como instalar
+
+1. Clique em **Baixar Tiger Media Tools para Mac**, acima.
+2. Abra o arquivo baixado e arraste o **Tiger Media Tools** para a pasta **Aplicativos**.
+3. Abra o Tiger Media Tools e entre com a sua conta.
+4. Na lista de aplicativos, clique em **Instalar** no Speed Batch, no Smart Frame ou no Camera Ingest.
+
+As atualizações aparecem no próprio Tiger Media Tools. Não é preciso voltar a esta página.
+
+## O que você instala
+
+| | |
+|---|---|
+| **Speed Batch** | Processa lotes de vídeo: rampas de velocidade, LUT, música e rotação, exportados em paralelo. |
+| **Smart Frame** | Escolhe e exporta os melhores frames dos seus vídeos, com ajustes de cor e LUT. |
+| **Camera Ingest** | Transfere os arquivos direto da câmera para o seu fluxo de trabalho. |
+
+Os aplicativos precisam de uma conta Tiger Media Tools com plano ativo.
