@@ -45,7 +45,7 @@ For delivering many videos with the same treatment, without opening an editor fo
 - **Music:** keep the original audio, replace it with a track from your library, or remove it.
 - **Automatic rotation** for videos shot vertically.
 - **Parallel export** with pause, cancel, per-video progress and time remaining for the whole batch.
-  With **Export automatically** on, each video is exported as soon as it is ready.
+  With **Exportar automaticamente** (export automatically) on, each video is exported as soon as it is ready.
 - **Safe with your files:** originals are never deleted or moved, and an exported file is never overwritten
   without asking.
 
@@ -70,11 +70,13 @@ For getting files off the camera without a card reader.
 - **Fujifilm:** the camera doesn't give computers access to its files. Use a card reader.
 - **Automatic import rules:** choose which media types come in on their own, and whether that applies to new
   files, files already on the card, or both.
-- A built-in **How to connect a camera** guide, brand by brand.
+- A built-in **Como conectar uma câmera** (how to connect a camera) guide, brand by brand.
 
 ---
 
 ## How to install
+
+The apps' interface is in Portuguese. Button names are shown below as they appear in the app, with the English meaning.
 
 1. Click **Download for Mac** above.
 2. Open the downloaded file and drag **Tiger Media Tools** into your **Applications** folder.
@@ -88,23 +90,23 @@ For getting files off the camera without a card reader.
    Tiger Media Tools don't need it.
 4. Open Tiger Media Tools and click the round account button in the top-right corner.
    - **Already use Speed Batch:** sign in with the same email and password.
-   - **New here:** click **Create Account**, fill in your details and confirm through the link sent to your email.
-5. Click **Install** on any app. Without an active plan, the plans screen opens: choose **Monthly** or **Annual**,
-   pay by **credit card** or **PIX**, and click **Subscribe**. When payment is done, come back and click
-   **I've Paid, Check**.
-6. With your plan active, click **Install** on Speed Batch, Smart Frame or Camera Ingest, then **Open**.
+   - **New here:** click **Criar Conta** (create account), fill in your details and confirm through the link sent to your email.
+5. Click **Instalar** (install) on any app. Without an active plan, the plans screen opens: choose **Mensal** (monthly) or **Anual** (annual),
+   pay by **credit card** or **PIX**, and click **Assinar** (subscribe). When payment is done, come back and click
+   **Já Paguei, Verificar** (I've paid, check).
+6. With your plan active, click **Instalar** on Speed Batch, Smart Frame or Camera Ingest, then **Abrir** (open).
 
 ## Updates
 
-When a new version is out, the app shows **Update** in Tiger Media Tools. You can update right away or keep
+When a new version is out, the app shows **Atualizar** (update) in Tiger Media Tools. You can update right away or keep
 opening the version you have. There's no need to come back to this page.
 
 ## Account and subscription
 
 - You sign in only in Tiger Media Tools. The three apps share that account and never ask you to log in.
 - Each app checks your license when it opens and every hour. Without internet it keeps working for up to
-  **7 days** and shows *"Couldn't verify your account"*.
-- Each app's menu bar has **Check Account** and **Sign Out**. Signing out of one signs you out of all.
+  **7 days** and shows *"Não foi possível verificar sua conta"* (couldn't verify your account).
+- Each app's menu bar has **Verificar Conta** (check account) and **Sair da Conta** (sign out). Signing out of one signs you out of all.
 - Payments and cancellation are in the Tiger Media Tools account menu.
 - Accounts are personal. Please don't share yours with other people.
 
@@ -132,7 +134,7 @@ Never. The apps only read the originals and save results to the folder you choos
 Yes, for up to 7 days in a row. After that, connect so the app can check your account.
 
 **How do I get files from Camera Ingest into Speed Batch or Smart Frame?**
-In Speed Batch or Smart Frame, turn on **Watch Folder** and point it at the folder Camera Ingest delivers to.
+In Speed Batch or Smart Frame, turn on **Monitorar pasta** (watch folder) and point it at the folder Camera Ingest delivers to.
 
 ## Support
 
