@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tiger-media-tools.png" width="128" alt="Tiger Media Tools">
+  <img src="https://github.com/tigerlabco-png.png?size=256" width="128" alt="Tiger Media Tools">
 </p>
 
 <h1 align="center">Tiger Media Tools</h1>
